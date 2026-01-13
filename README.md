@@ -1,2 +1,2 @@
 # lab-project
-creating my first project
+creating my first new project
